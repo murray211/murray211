@@ -1,16 +1,33 @@
-## Hi there 👋
+ #Hi there, I'm Murray! 👋
 
-<!--
-**murray211/murray211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a beginner Python developer passionate about learning new technologies and solving real-world problems with code.
 
-Here are some ideas to get you started:
+This fall, I'll be joining **Montana State University** to continue my education and explore the world of Mechanical Engineering. 🐾🎓
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Current Focus
+- Building beginner Python projects
+- Exploring data manipulation, simple automation, and problem solving
+- Growing my coding skills every day
+
+## 🚀 Future Goals
+- Deepen my knowledge in Mechanical Engineering and software development
+- Learn new programming languages and frameworks
+- Collaborate on open source projects
+- Make an impact through technology
+
+## 🛠️ Languages and Tools
+<img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+&nbsp;
+
+<br/>
+
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/murray-stebbins-03a37834a/)
+- [GitHub](https://github.com/murray211)
+
+---
+
+<!-- Optional: Fun badges -->
+![Python](https://img.shields.io/badge/Python-Beginner-blue?logo=python)
+![Montana State University](https://img.shields.io/badge/MSU-'29-blue)
+![Learning Every Day](https://img.shields.io/badge/Learning-Everyday-FF6F61)
